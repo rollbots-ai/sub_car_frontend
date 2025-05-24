@@ -1,4 +1,3 @@
-import axios from 'axios';
 import carsData from '../data/cars.json';
 
 // Define the Car interface
