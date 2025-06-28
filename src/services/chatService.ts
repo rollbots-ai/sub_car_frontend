@@ -1,7 +1,7 @@
 class ChatService {
   private baseURL: string;
   
-  constructor(baseURL = 'http://localhost:3000/api/chat') {
+  constructor(baseURL = 'https://search-car-open-ai.gtmsia88.workers.dev/api/chat') {
     this.baseURL = baseURL;
   }
 
